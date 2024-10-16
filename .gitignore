@@ -1,0 +1,8 @@
+share/*
+Scripts/*
+Lib/*
+__pycache__/*
+
+src/data/good_gcode/*
+src/data/malicious_gcode/*
+pyvenv.cfg

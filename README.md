@@ -91,7 +91,9 @@ The script extracts features from each G-code file, including temperatures, move
 
 The script modifies G-code lines randomly based on a set of predefined behaviors, simulating potential malicious modifications that could occur in a compromised G-code file.
 
-
+## Made In Association With:
+![[MS Vertical Black.png|300]]
+![[CPP-SIIL Vert-Horiz-cropped.png]]
 
 ## BSD 3-Clause License
 

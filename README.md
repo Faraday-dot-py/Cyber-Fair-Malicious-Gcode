@@ -92,7 +92,7 @@ The script extracts features from each G-code file, including temperatures, move
 The script modifies G-code lines randomly based on a set of predefined behaviors, simulating potential malicious modifications that could occur in a compromised G-code file.
 
 # Made In Association With:
-![MS Logo|300](https://github.com/Faraday-dot-py/Cyber-Fair-Malicious-Gcode/blob/main/logos/MS%20Vertical%20White.png?raw=true)
+![MS Logo|300](https://github.com/Faraday-dot-py/Cyber-Fair-Malicious-Gcode/blob/main/logos/MS%20Horizontal%20White.png?raw=true)
 ![SIIL Logo](https://github.com/Faraday-dot-py/Cyber-Fair-Malicious-Gcode/blob/main/logos/CPP-SIIL%20Vert-Horiz-cropped.png?raw=true)
 
 

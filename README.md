@@ -1,4 +1,4 @@
-# G-Code Feature Extraction and Malicious Modification Detection
+# GREMLIN: G-code Recognition and Evaluation of Malicious Lines In Networks
 
 ## Overview
 
@@ -52,7 +52,7 @@ pip install pandas tqdm
 ├────── gcode_malicious_detection_model.keras    #Trained model file
 ├────── scaler.pkl               # Saved scaler file
 |
-├──── demo.ipymb                 # Demo jupyter notebook for the fair
+├──── demo.ipymb                 # Demo Jupyter notebook for the fair
 ├──── mal.py                     # Used to generate malicious gcode
 ├──── model.py                   # Where the model is trained
 ├──── preprocess.py              # Extract significant features to csv
